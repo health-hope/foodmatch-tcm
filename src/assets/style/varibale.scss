@@ -1,0 +1,847 @@
+// 心系  start
+$background-color-zyxx: #de9648;
+$background-color-zyxx1: #f6f1ec;
+$background-color-zyxx2: #e2e7d0;
+$background-color-zyxx3: #cad1b2;
+$background-color-zyxx4: #e2dddc;
+$background-color-zyxx5: #efaa60;
+$background-color-zyxx6: #ffffff;
+$background-color-zyxx7: rgba(239, 236, 226, 0.2);
+$background-color-zyxx8: rgba(222, 150, 72, 0.5);
+$background-color-zyxx9: rgba(208, 186, 179, 0.14);
+// loading
+$background-color-zyxx10: rgba(0, 0, 0, 0.20);
+$background-color-zyxx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zyxx12: rgba(0, 0, 0, 0.72);
+$background-color-zyxx13: #ccb8b7;
+$background-color-zyxx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zyxx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zyxx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zyxx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zyxx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zyxx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zyxx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zyxx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zyxx22: rgba(255,255,255,0.90);
+$background-color-zyxx23: rgba(208,186,179,0.14);
+$background-color-zyxx24: rgba(204,184,183,0.5);
+$background-color-zyxx25: rgba(222,150,72,0.50);
+
+$font-color-zyxx: #ab8987;
+$font-color-zyxx1: #713A30;
+$font-color-zyxx2: #2f0000;
+$font-color-zyxx3: #e2dddc;
+$font-color-zyxx4: #333333;
+$font-color-zyxx5: #999999;
+$font-color-zyxx6: #ffffff;
+$font-color-zyxx7: #2a2a2a;
+$font-color-zyxx8: #666666;
+$font-color-zyxx9: rgba(113, 58, 48, 0.6);
+$font-color-zyxx10: #de9648;
+$font-color-zyxx11: #efaa60;  
+$font-color-zyxx12: rgba(171, 137, 135, 0.6);
+$font-color-zyxx13:  rgba(113,58,48,0.6);
+$font-color-zyxx14:  #C4C4C4; 
+$font-color-zyxx15: #DE9648;
+$font-color-zyxx16: #DE9648;
+
+$box-shodow-zyxx: rgba(222, 150, 72, 0.5);
+$box-shodow-zyxx1: rgba(211, 170, 160, 0.1);
+$box-shodow-zyxx2: rgba(208, 147, 83, 0.4);
+$box-shodow-zyxx3: rgba(228, 199, 193, 0.5);
+$box-shodow-zyxx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zyxx5: rgba(228,199,193,0.50);
+
+$border-zyxx: #e2e7d0;
+$border-zyxx1:#de9648;
+$border-zyxx2: rgba(222, 150, 72, 0.4);
+$border-zyxx3: rgba(222, 150, 72, 0.6);
+$border-zyxx4: #f1d8bd;
+$border-zyxx5: #e5caa2;
+$border-zyxx6: rgba(215,157,97,0.40);
+$border-zyxx7: rgba(255,255,255,0.50);
+$border-zyxx8: #f6f1ec;
+$border-zyxx9: #DE9648;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zyxx-left: rgba(222, 150, 72, 0.4); 
+// 心系  end 
+
+// 肝系  start
+$background-color-zygx: #BAD035;
+$background-color-zygx1: #F7F8F3;
+$background-color-zygx2: #e2e7d0;
+$background-color-zygx3: #cad1b2;
+$background-color-zygx4: #e2dddc;
+$background-color-zygx5: #efaa60;
+$background-color-zygx6: #ffffff;
+$background-color-zygx7: rgba(239, 236, 226, 0.2);
+$background-color-zygx8: rgba(186,208,53,0.40);
+$background-color-zygx9:  rgba(206,212,180,0.14);
+// loading
+$background-color-zygx10: rgba(0, 0, 0, 0.20);
+$background-color-zygx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zygx12: rgba(0, 0, 0, 0.72);
+$background-color-zygx13: #ccb8b7;
+$background-color-zygx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zygx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zygx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zygx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zygx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zygx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zygx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zygx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zygx22: rgba(255,255,255,0.90);
+$background-color-zygx23: rgba(206,212,180,0.14);
+$background-color-zygx24: rgba(204,184,183,0.5);
+$background-color-zygx25: rgba(186,208,53, 0.5);
+
+$font-color-zygx:  #9EA485;
+$font-color-zygx1: #3D412F;
+$font-color-zygx2: #2f0000;
+$font-color-zygx3: #e2dddc;
+$font-color-zygx4: #333333;
+$font-color-zygx5: #999999;
+$font-color-zygx6: #ffffff;
+$font-color-zygx7: #2a2a2a;
+$font-color-zygx8: #666666;
+$font-color-zygx9: rgba(113, 58, 48, 0.6);
+$font-color-zygx10: #BAD035 ;
+$font-color-zygx11: #efaa60;  
+$font-color-zygx12: rgba(158,164,133,0.60);
+$font-color-zygx13:  rgba(113,58,48,0.6);
+$font-color-zygx14:  #C4C4C4; 
+$font-color-zygx15: #BAD035 ;
+$font-color-zygx16: #BAD035 ;
+
+$box-shodow-zygx: rgba(186,208,53,0.40);
+$box-shodow-zygx1: rgba(185,192,162,0.10);
+$box-shodow-zygx2: rgba(186,208,53,0.40);
+$box-shodow-zygx3: rgba(186,208,53,.05);
+$box-shodow-zygx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zygx5: rgba(190,210,72,0.10);
+
+$border-zygx: #e2e7d0;
+$border-zygx1:#BAD035 ;
+$border-zygx2: rgba(222, 150, 72, 0.4);
+$border-zygx3: rgba(222, 150, 72, 0.6);
+$border-zygx4: #f1d8bd;
+$border-zygx5: rgba(198,215,98,0.40);
+$border-zygx6: rgba(215,157,97,0.40);
+$border-zygx7: rgba(255,255,255,0.50);
+$border-zygx8: #f6f1ec;
+$border-zygx9: #BAD035 ;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zygx-left: rgba(186, 208, 53, 0.4);
+// 肝系  end 
+
+
+// 肺系  start
+$background-color-zyfx: #D9BD1C ;
+$background-color-zyfx1: #F8F6F0; //页面整体的背景色
+$background-color-zyfx2: #e2e7d0;
+$background-color-zyfx3: #cad1b2;
+$background-color-zyfx4: #e2dddc;
+$background-color-zyfx5: #efaa60;
+$background-color-zyfx6: #ffffff;
+$background-color-zyfx7: rgba(239, 236, 226, 0.2);
+$background-color-zyfx8: rgba(186,208,53,0.40);
+$background-color-zyfx9:  rgba(206,212,180,0.14);
+// loading
+$background-color-zyfx10: rgba(0, 0, 0, 0.20);
+$background-color-zyfx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zyfx12: rgba(0, 0, 0, 0.72);
+$background-color-zyfx13: #ccb8b7;
+$background-color-zyfx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zyfx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zyfx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zyfx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zyfx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zyfx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zyfx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zyfx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zyfx22: rgba(255,255,255,0.90);
+$background-color-zyfx23: rgba(215,203,180,0.14);
+$background-color-zyfx24: rgba(204,184,183,0.5);
+$background-color-zyfx25: rgba(217,189,28,0.5);
+
+$font-color-zyfx:  #ACA18B; //参考文献title颜色
+$font-color-zyfx1: #5C4B2A; //调整配餐字体
+$font-color-zyfx2: #2f0000;
+$font-color-zyfx3: #e2dddc;
+$font-color-zyfx4: #333333;
+$font-color-zyfx5: #999999;
+$font-color-zyfx6: #ffffff;
+$font-color-zyfx7: #2a2a2a;
+$font-color-zyfx8: #666666;
+$font-color-zyfx9: rgba(113, 58, 48, 0.6);
+$font-color-zyfx10:  #D9BD1C;
+$font-color-zyfx11: #efaa60;  
+$font-color-zyfx12: rgba(172,161,139,0.60); //参考文献内容字体颜色
+$font-color-zyfx13:  rgba(113,58,48,0.6);
+$font-color-zyfx14:  #C4C4C4; 
+$font-color-zyfx15: #D9BD1C ; // 日历字体
+$font-color-zyfx16:  #D9BD1C;
+
+$box-shodow-zyfx: rgba(217,189,28,0.50);
+$box-shodow-zyfx1: rgba(189,178,157,0.10);
+$box-shodow-zyfx2: rgba(217,189,28,0.40);//按钮背景阴影
+$box-shodow-zyfx3: rgba(186,208,53,.05);
+$box-shodow-zyfx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zyfx5: rgba(217,189,28,0.10); //调整按钮的阴影
+
+$border-zyfx: #e2e7d0;
+$border-zyfx1: #D9BD1C;
+$border-zyfx2: rgba(222, 150, 72, 0.4);
+$border-zyfx3: rgba(222, 150, 72, 0.6);
+$border-zyfx4: #f1d8bd;
+$border-zyfx5: rgba(217,189,28,0.40);
+$border-zyfx6: rgba(215,157,97,0.40);
+$border-zyfx7: rgba(255,255,255,0.50);
+$border-zyfx8: #f6f1ec;
+$border-zyfx9:  #D9BD1C;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zyfx-left: rgba(217,189,28,0.40);
+// 肺系  end 
+
+
+// 大肠  start
+$background-color-zydc: #D9BD1C ;
+$background-color-zydc1: #F8F6F0; //页面整体的背景色
+$background-color-zydc2: #e2e7d0;
+$background-color-zydc3: #cad1b2;
+$background-color-zydc4: #e2dddc;
+$background-color-zydc5: #efaa60;
+$background-color-zydc6: #ffffff;
+$background-color-zydc7: rgba(239, 236, 226, 0.2);
+$background-color-zydc8: rgba(186,208,53,0.40);
+$background-color-zydc9:  rgba(206,212,180,0.14);
+// loading
+$background-color-zydc10: rgba(0, 0, 0, 0.20);
+$background-color-zydc11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zydc12: rgba(0, 0, 0, 0.72);
+$background-color-zydc13: #ccb8b7;
+$background-color-zydc14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zydc15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zydc16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zydc17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zydc18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zydc19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zydc20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zydc21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zydc22: rgba(255,255,255,0.90);
+$background-color-zydc23: rgba(215,203,180,0.14);
+$background-color-zydc24: rgba(204,184,183,0.5);
+$background-color-zydc25: rgba(186,208,53, 0.5);
+
+$font-color-zydc:  #ACA18B; //参考文献title颜色
+$font-color-zydc1: #5C4B2A; //调整配餐字体
+$font-color-zydc2: #2f0000;
+$font-color-zydc3: #e2dddc;
+$font-color-zydc4: #333333;
+$font-color-zydc5: #999999;
+$font-color-zydc6: #ffffff;
+$font-color-zydc7: #2a2a2a;
+$font-color-zydc8: #666666;
+$font-color-zydc9: rgba(113, 58, 48, 0.6);
+$font-color-zydc10:  #D9BD1C;
+$font-color-zydc11: #efaa60;  
+$font-color-zydc12: rgba(172,161,139,0.60); //参考文献内容字体颜色
+$font-color-zydc13:  rgba(113,58,48,0.6);
+$font-color-zydc14:  #C4C4C4; 
+$font-color-zydc15: #D9BD1C ; // 日历字体
+$font-color-zydc16:  #D9BD1C;
+
+$box-shodow-zydc: rgba(217,189,28,0.50);
+$box-shodow-zydc1: rgba(211, 170, 160, 0.1);
+$box-shodow-zydc2: rgba(217,189,28,0.40);//按钮背景阴影
+$box-shodow-zydc3: rgba(186,208,53,.05);
+$box-shodow-zydc4: rgba(208, 147, 83, 0.3);
+$box-shodow-zydc5: rgba(217,189,28,0.10); //调整按钮的阴影
+
+$border-zydc: #e2e7d0;
+$border-zydc1: #D9BD1C;
+$border-zydc2: rgba(222, 150, 72, 0.4);
+$border-zydc3: rgba(222, 150, 72, 0.6);
+$border-zydc4: #f1d8bd;
+$border-zydc5: rgba(217,189,28,0.40);
+$border-zydc6: rgba(215,157,97,0.40);
+$border-zydc7: rgba(255,255,255,0.50);
+$border-zydc8: #f6f1ec;
+$border-zydc9:  #D9BD1C;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zydc-left: rgba(217,189,28,0.40);; 
+// 大肠  end 
+
+// 胃系  start
+$background-color-zywx: #D7A82F;
+$background-color-zywx1: #F6F2EC; //页面整体的背景色
+$background-color-zywx2: #e2e7d0;
+$background-color-zywx3: #cad1b2;
+$background-color-zywx4: #e2dddc;
+$background-color-zywx5: #efaa60;
+$background-color-zywx6: #ffffff;
+$background-color-zywx7: rgba(239, 236, 226, 0.2);
+$background-color-zywx8: rgba(186,208,53,0.40);
+$background-color-zywx9:  rgba(206,212,180,0.14);
+// loading
+$background-color-zywx10: rgba(0, 0, 0, 0.20);
+$background-color-zywx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zywx12: rgba(0, 0, 0, 0.72);
+$background-color-zywx13: #ccb8b7;
+$background-color-zywx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zywx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zywx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zywx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zywx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zywx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zywx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zywx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zywx22: rgba(255,255,255,0.90);
+$background-color-zywx23: rgba(215,203,180,0.14);
+$background-color-zywx24: rgba(204,184,183,0.5);
+$background-color-zywx25: rgba(217,189,28,0.5);
+
+$font-color-zywx:  #AF9A8D; //参考文献title颜色
+$font-color-zywx1: #60402C; //调整配餐字体
+$font-color-zywx2: #2f0000;
+$font-color-zywx3: #e2dddc;
+$font-color-zywx4: #333333;
+$font-color-zywx5: #999999;
+$font-color-zywx6: #ffffff;
+$font-color-zywx7: #2a2a2a;
+$font-color-zywx8: #666666;
+$font-color-zywx9: rgba(113, 58, 48, 0.6);
+$font-color-zywx10: #D7A82F;
+$font-color-zywx11: #efaa60;  
+$font-color-zywx12:  rgba(175,154,141,0.60);//参考文献内容字体颜色
+$font-color-zywx13:  rgba(113,58,48,0.6);
+$font-color-zywx14:  #C4C4C4; 
+$font-color-zywx15: #D7A82F; // 日历字体
+$font-color-zywx16:  #D7A82F;
+
+$box-shodow-zywx: rgba(215,168,47,0.40); //首页下面的大按钮
+$box-shodow-zywx1: rgba(187,166,153,0.10);
+$box-shodow-zywx2: rgba(215,168,47,0.40);//按钮背景阴影
+$box-shodow-zywx3: rgba(186,208,53,.05);
+$box-shodow-zywx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zywx5: rgba(215,168,47,0.10); //调整按钮的阴影
+
+$border-zywx: #e2e7d0;
+$border-zywx1: #D7A82F;
+$border-zywx2: rgba(222, 150, 72, 0.4);
+$border-zywx3: rgba(222, 150, 72, 0.6);
+$border-zywx4: #f1d8bd;
+$border-zywx5: rgba(220,185,96,0.40);
+$border-zywx6: rgba(215,157,97,0.40);
+$border-zywx7: rgba(255,255,255,0.50);
+$border-zywx8: #f6f1ec;
+$border-zywx9:  #D7A82F;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zywx-left: rgba(220,185,96,0.40);
+// 胃系  end 
+
+// 脾系  start
+$background-color-zypx: #D9BD1C ;
+$background-color-zypx1: #F8F6F0; //页面整体的背景色
+$background-color-zypx2: #e2e7d0;
+$background-color-zypx3: #cad1b2;
+$background-color-zypx4: #e2dddc;
+$background-color-zypx5: #efaa60;
+$background-color-zypx6: #ffffff;
+$background-color-zypx7: rgba(239, 236, 226, 0.2);
+$background-color-zypx8: rgba(186,208,53,0.40);
+$background-color-zypx9:  rgba(206,212,180,0.14);
+// loading
+$background-color-zypx10: rgba(0, 0, 0, 0.20);
+$background-color-zypx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zypx12: rgba(0, 0, 0, 0.72);
+$background-color-zypx13: #ccb8b7;
+$background-color-zypx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zypx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zypx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zypx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zypx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zypx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zypx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zypx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zypx22: rgba(255,255,255,0.90);
+$background-color-zypx23: rgba(215,203,180,0.14);
+$background-color-zypx24: rgba(204,184,183,0.5);
+$background-color-zypx25: rgba(217,189,28,0.5);
+
+$font-color-zypx:  #ACA18B; //参考文献title颜色
+$font-color-zypx1: #5C4B2A; //调整配餐字体
+$font-color-zypx2: #2f0000;
+$font-color-zypx3: #e2dddc;
+$font-color-zypx4: #333333;
+$font-color-zypx5: #999999;
+$font-color-zypx6: #ffffff;
+$font-color-zypx7: #2a2a2a;
+$font-color-zypx8: #666666;
+$font-color-zypx9: rgba(113, 58, 48, 0.6);
+$font-color-zypx10:  #D9BD1C;
+$font-color-zypx11: #efaa60;  
+$font-color-zypx12: rgba(172,161,139,0.60); //参考文献内容字体颜色
+$font-color-zypx13:  rgba(113,58,48,0.6);
+$font-color-zypx14:  #C4C4C4; 
+$font-color-zypx15: #D9BD1C ; // 日历字体
+$font-color-zypx16:  #D9BD1C;
+
+$box-shodow-zypx: rgba(217,189,28,0.50);
+$box-shodow-zypx1: rgba(187,166,153,0.10);
+$box-shodow-zypx2: rgba(217,189,28,0.40);//按钮背景阴影
+$box-shodow-zypx3: rgba(186,208,53,.05);
+$box-shodow-zypx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zypx5: rgba(217,189,28,0.10); //调整按钮的阴影
+
+$border-zypx: #e2e7d0;
+$border-zypx1: #D9BD1C;
+$border-zypx2: rgba(222, 150, 72, 0.4);
+$border-zypx3: rgba(222, 150, 72, 0.6);
+$border-zypx4: #f1d8bd;
+$border-zypx5: rgba(220,185,96,0.40);
+$border-zypx6: rgba(215,157,97,0.40);
+$border-zypx7: rgba(255,255,255,0.50);
+$border-zypx8: #f6f1ec;
+$border-zypx9:  #D9BD1C;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zypx-left: rgba(220,185,96,0.40);
+// 脾系  end 
+
+// 小肠  start
+$background-color-zyxx: #de9648;
+$background-color-zyxx1: #f6f1ec;
+$background-color-zyxx2: #e2e7d0;
+$background-color-zyxx3: #cad1b2;
+$background-color-zyxx4: #e2dddc;
+$background-color-zyxx5: #efaa60;
+$background-color-zyxx6: #ffffff;
+$background-color-zyxx7: rgba(239, 236, 226, 0.2);
+$background-color-zyxx8: rgba(222, 150, 72, 0.5);
+$background-color-zyxx9: rgba(208, 186, 179, 0.14);
+// loading
+$background-color-zyxx10: rgba(0, 0, 0, 0.20);
+$background-color-zyxx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zyxx12: rgba(0, 0, 0, 0.72);
+$background-color-zyxx13: #ccb8b7;
+$background-color-zyxx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zyxx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zyxx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zyxx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zyxx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zyxx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zyxx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zyxx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zyxx22: rgba(255,255,255,0.90);
+$background-color-zyxx23: rgba(208,186,179,0.14);
+$background-color-zyxx24: rgba(204,184,183,0.5);
+$background-color-zyxx25: rgba(222,150,72,0.50);
+
+$font-color-zyxx: #ab8987;
+$font-color-zyxx1: #713A30;
+$font-color-zyxx2: #2f0000;
+$font-color-zyxx3: #e2dddc;
+$font-color-zyxx4: #333333;
+$font-color-zyxx5: #999999;
+$font-color-zyxx6: #ffffff;
+$font-color-zyxx7: #2a2a2a;
+$font-color-zyxx8: #666666;
+$font-color-zyxx9: rgba(113, 58, 48, 0.6);
+$font-color-zyxx10: #de9648;
+$font-color-zyxx11: #efaa60;  
+$font-color-zyxx12: rgba(171, 137, 135, 0.6);
+$font-color-zyxx13:  rgba(113,58,48,0.6);
+$font-color-zyxx14:  #C4C4C4; 
+$font-color-zyxx15: #DE9648;
+$font-color-zyxx16: #DE9648;
+
+$box-shodow-zyxx: rgba(222, 150, 72, 0.5);
+$box-shodow-zyxx1: rgba(211, 170, 160, 0.1);
+$box-shodow-zyxx2: rgba(208, 147, 83, 0.4);
+$box-shodow-zyxx3: rgba(228, 199, 193, 0.5);
+$box-shodow-zyxx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zyxx5: rgba(228,199,193,0.50);
+
+$border-zyxx: #e2e7d0;
+$border-zyxx1:#de9648;
+$border-zyxx2: rgba(222, 150, 72, 0.4);
+$border-zyxx3: rgba(222, 150, 72, 0.6);
+$border-zyxx4: #f1d8bd;
+$border-zyxx5: #e5caa2;
+$border-zyxx6: rgba(215,157,97,0.40);
+$border-zyxx7: rgba(255,255,255,0.50);
+$border-zyxx8: #f6f1ec;
+$border-zyxx9: #DE9648;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zyxx-left: rgba(222, 150, 72, 0.4); 
+// 小肠  end 
+
+// 胆系  start
+$background-color-zydx: #BAD035;
+$background-color-zydx1: #F7F8F3;
+$background-color-zydx2: #e2e7d0;
+$background-color-zydx3: #cad1b2;
+$background-color-zydx4: #e2dddc;
+$background-color-zydx5: #efaa60;
+$background-color-zydx6: #ffffff;
+$background-color-zydx7: rgba(239, 236, 226, 0.2);
+$background-color-zydx8: rgba(186,208,53,0.40);
+$background-color-zydx9:  rgba(206,212,180,0.14);
+// loading
+$background-color-zydx10: rgba(0, 0, 0, 0.20);
+$background-color-zydx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zydx12: rgba(0, 0, 0, 0.72);
+$background-color-zydx13: #ccb8b7;
+$background-color-zydx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zydx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zydx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zydx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zydx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zydx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zydx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zydx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zydx22: rgba(255,255,255,0.90);
+$background-color-zydx23: rgba(206,212,180,0.14);
+$background-color-zydx24: rgba(204,184,183,0.5);
+$background-color-zydx25: rgba(186,208,53, 0.5);
+
+$font-color-zydx:  #9EA485;
+$font-color-zydx1: #3D412F;
+$font-color-zydx2: #2f0000;
+$font-color-zydx3: #e2dddc;
+$font-color-zydx4: #333333;
+$font-color-zydx5: #999999;
+$font-color-zydx6: #ffffff;
+$font-color-zydx7: #2a2a2a;
+$font-color-zydx8: #666666;
+$font-color-zydx9: rgba(113, 58, 48, 0.6);
+$font-color-zydx10: #BAD035 ;
+$font-color-zydx11: #efaa60;  
+$font-color-zydx12: rgba(158,164,133,0.60);
+$font-color-zydx13:  rgba(113,58,48,0.6);
+$font-color-zydx14:  #C4C4C4; 
+$font-color-zydx15: #BAD035 ;
+$font-color-zydx16: #BAD035 ;
+
+$box-shodow-zydx: rgba(186,208,53,0.40);
+$box-shodow-zydx1: rgba(211, 170, 160, 0.1);
+$box-shodow-zydx2: rgba(186,208,53,0.40);
+$box-shodow-zydx3: rgba(186,208,53,.05);
+$box-shodow-zydx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zydx5: rgba(190,210,72,0.10);
+
+$border-zydx: #e2e7d0;
+$border-zydx1:#BAD035 ;
+$border-zydx2: rgba(222, 150, 72, 0.4);
+$border-zydx3: rgba(222, 150, 72, 0.6);
+$border-zydx4: #f1d8bd;
+$border-zydx5: #e5caa2;
+$border-zydx6: rgba(215,157,97,0.40);
+$border-zydx7: rgba(255,255,255,0.50);
+$border-zydx8: #f6f1ec;
+$border-zydx9: #BAD035 ;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zydx-left: rgba(186,208,53,0.40);
+// 胆系  end 
+
+// 肾系  start
+$background-color-zysx:  #54C6C9;
+$background-color-zysx1: #F4F8F9;
+$background-color-zysx2: #e2e7d0;
+$background-color-zysx3: #cad1b2;
+$background-color-zysx4: #e2dddc;
+$background-color-zysx5: #efaa60;
+$background-color-zysx6: #ffffff;
+$background-color-zysx7: rgba(239, 236, 226, 0.2);
+$background-color-zysx8: rgba(222, 150, 72, 0.5);
+$background-color-zysx9: rgba(208, 186, 179, 0.14);
+// loading
+$background-color-zysx10: rgba(0, 0, 0, 0.20);
+$background-color-zysx11: rgba(255, 255, 255, 0.80);
+// pop
+$background-color-zysx12: rgba(0, 0, 0, 0.72);
+$background-color-zysx13: #ccb8b7;
+$background-color-zysx14: rgba(255, 255, 255, 0.9);
+// tag 渐变
+$background-color-zysx15: linear-gradient(269deg, #bfd7e4 0%, #aeccdc 100%);
+$background-color-zysx16: linear-gradient(90deg,
+#ccd7a7 0%,
+#dae3bc 100%);
+
+$background-color-zysx17: linear-gradient(269deg,
+#ece1c9 0%,
+#e2d3b4 100%);
+
+$background-color-zysx18: linear-gradient(269deg,
+#e7d7bf 0%,
+#e0c8a5 100%);
+
+$background-color-zysx19: linear-gradient(90deg,
+#b5c1f1 0%,
+#c4cff4 100%);
+
+$background-color-zysx20: linear-gradient(90deg,
+#f1d9b5 0%,
+#f4c4c4 100%);
+
+$background-color-zysx21: linear-gradient(90deg,
+#f1cfb5 0%,
+#f4d8c4 100%);
+$background-color-zysx22: rgba(255,255,255,0.90);
+$background-color-zysx23: rgba(179,190,211,0.14);
+$background-color-zysx24: rgba(204,184,183,0.5);
+$background-color-zysx25: rgba(84,198,201,0.50);
+
+$font-color-zysx:  #808DA8;
+$font-color-zysx1: #364157;
+$font-color-zysx2: #2f0000;
+$font-color-zysx3: #e2dddc;
+$font-color-zysx4: #333333;
+$font-color-zysx5: #999999;
+$font-color-zysx6: #ffffff;
+$font-color-zysx7: #2a2a2a;
+$font-color-zysx8: #666666;
+$font-color-zysx9: rgba(113, 58, 48, 0.6);
+$font-color-zysx10: #54C6C9;
+$font-color-zysx11: #efaa60;  
+$font-color-zysx12: rgba(128,141,168,0.60);
+$font-color-zysx13:  rgba(113,58,48,0.6);
+$font-color-zysx14:  #C4C4C4; 
+$font-color-zysx15: #54C6C9;
+$font-color-zysx16: #54C6C9;
+
+$box-shodow-zysx: rgba(84,198,201,0.40);
+$box-shodow-zysx1: rgba(160,171,191,0.10);
+$box-shodow-zysx2: rgba(84,198,201,0.40);
+$box-shodow-zysx3: rgba(228, 199, 193, 0.5);
+$box-shodow-zysx4: rgba(208, 147, 83, 0.3);
+$box-shodow-zysx5: rgba(84,198,201,0.20);
+
+$border-zysx: #e2e7d0;
+$border-zysx1: #54C6C9;
+$border-zysx2: rgba(222, 150, 72, 0.4);
+$border-zysx3: rgba(222, 150, 72, 0.6);
+$border-zysx4: #f1d8bd;
+$border-zysx5: #D9EBEB;
+$border-zysx6: rgba(215,157,97,0.40);
+$border-zysx7: rgba(255,255,255,0.50);
+$border-zysx8: #f6f1ec;
+$border-zysx9:  #54C6C9;
+
+$border-color: #e2dddc;
+$border-color1: #efaa60;
+$border-color2: rgba(222, 150, 72, 0.4);
+$border-color3: rgba(215, 157, 97, 0.4);
+$border-color4: rgba(255, 255, 255, 0.5);
+
+
+$border-zysx-left: rgba(84,198,201,0.40);
+// 肾系  end 
